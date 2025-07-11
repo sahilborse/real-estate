@@ -139,4 +139,5 @@ Follow these steps to set up the project on your local machine:
 
 ## 📸 Screenshots
 
-(Optional: add images here for forms, property listings, etc.)
+<img width="1364" height="676" alt="Screenshot 2025-07-11 135609" src="https://github.com/user-attachments/assets/f3c08703-9636-499a-90a5-893c52410e5b" />
+
